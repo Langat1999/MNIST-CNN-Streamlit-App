@@ -1,6 +1,6 @@
 # MNIST CNN + Streamlit App
 
-C:\Users\user\OneDrive\Documents\AI\week 2 assignment\Assets\cnn.jpg
+![cnn](https://github.com/user-attachments/assets/4e4e54c4-d78a-4920-b449-bdbf739a9267)
 
 This project trains a Convolutional Neural Network (CNN) on the MNIST dataset and serves a simple Streamlit app to classify handwritten digits.
 
@@ -69,7 +69,7 @@ Open the local URL shown by Streamlit. Upload a 28×28-like grayscale digit imag
 ## License
 MIT License
 
-Copyright (c) 2025 [Your Name or Organization]
+Copyright (c) 2025 LangatJM
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
