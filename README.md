@@ -1,5 +1,7 @@
 # MNIST CNN + Streamlit App
 
+C:\Users\user\OneDrive\Documents\AI\week 2 assignment\Assets\cnn.jpg
+
 This project trains a Convolutional Neural Network (CNN) on the MNIST dataset and serves a simple Streamlit app to classify handwritten digits.
 
 ## Features
